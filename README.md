@@ -1,1 +1,0 @@
-https://Cupidno.github.io/rsschool-cv/cv
