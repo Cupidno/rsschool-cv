@@ -55,7 +55,7 @@ header{
 
     transition:  border 0.15s linear, color 0.15s linear;
 }
-.menu{
+.menu__block{
     max-width: 1332px;
     margin: 0 auto;
 
