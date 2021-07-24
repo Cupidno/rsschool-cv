@@ -1,1 +1,1 @@
-https://Cupidno.github.io/rsschool-cv/cv
+https://cupidno.github.io/rsschool-cv/
