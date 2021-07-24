@@ -35,7 +35,9 @@ I am 15 years old, and after finishing 9th grade I decided to become a web devel
  -
 ---
 
-## Education
+## Education:
+
+
 Secondary education for the end of the 9th grade
 ---
 
